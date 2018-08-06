@@ -1,0 +1,34 @@
+body{
+	font-size: 16px;
+	color: #fff;
+	background-color: #61122f;
+	font-family: 'Oxygen', sans-serif;
+
+}
+#header-nav{
+	background-color: #f6b319;
+	color: black;
+	border-radius: 0;
+	border: 0;
+}
+
+.navbar-brand h1{
+	color: #557c3e;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	line-height: .75;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+}
+#cont{
+	justify-content: initial;
+}
+#logo-img{
+	background: url('../cute1.jpg') no-repeat;
+	width: 150px;
+	height: 150px;
+	margin: 10px 15px 10px 0;
+}
